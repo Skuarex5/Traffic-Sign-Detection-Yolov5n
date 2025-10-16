@@ -10,7 +10,6 @@ It combines **OpenCV motion detection** with the YOLO model, allowing detection 
 - ⚡ **Lightweight YOLOv5n** model optimized for embedded hardware  
 - 🎥 Real-time **video stream capture** via OpenCV  
 - 🔍 **Motion-based triggering** to minimize unnecessary inference  
-- 🧠 Modular and easily extensible code (can be adapted to other classes or datasets)  
 - 💾 Designed for **low-resource environments** with efficient memory management  
 
 ---
