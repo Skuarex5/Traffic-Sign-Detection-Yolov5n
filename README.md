@@ -29,4 +29,4 @@ python SignDetector.py
 2. **Detection:** Bounding boxes and class labels are drawn over detected urban signs.  
 3. **Optimization:** If no movement is detected, inference is skipped — reducing **GPU/CPU load** and increasing **FPS**.  
 
-![Detection](image.jpg)
+<img src="image.jpg" alt="Detection" width="500">
