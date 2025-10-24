@@ -30,5 +30,5 @@ python SignDetector.py
 3. **Optimization:** If no movement is detected, inference is skipped — reducing **GPU/CPU load** and increasing **FPS**.  
 
 <p align="center">
-  <img src="image.jpg" alt="Detection" width="500">
+  <img src="./image.jpg" alt="Detection" width="500">
 </p>
